@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Titillium Web ExtraLight'), local('TitilliumWeb-ExtraLight'), url(http://web.archive.org/web/20180418041539im_/http://fonts.gstatic.com/s/titilliumweb/v6/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGIVzZg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Titillium Web Light'), local('TitilliumWeb-Light'), url(http://web.archive.org/web/20180418041539im_/http://fonts.gstatic.com/s/titilliumweb/v6/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGIVzZg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Titillium Web Regular'), local('TitilliumWeb-Regular'), url(http://web.archive.org/web/20180418041539im_/http://fonts.gstatic.com/s/titilliumweb/v6/NaPecZTIAOhVxoMyOr9n_E7fdM3mCA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Titillium Web SemiBold'), local('TitilliumWeb-SemiBold'), url(http://web.archive.org/web/20180418041539im_/http://fonts.gstatic.com/s/titilliumweb/v6/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZg.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 04:15:39 Apr 18, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:19:30 Apr 02, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 82.433 (3)
+  esindex: 0.007
+  captures_list: 113.767
+  CDXLines.iter: 12.554 (3)
+  PetaboxLoader3.datanode: 32.773 (4)
+  exclusion.robots: 0.196
+  exclusion.robots.policy: 0.172
+  RedisCDXSource: 9.222
+  PetaboxLoader3.resolve: 502.022 (2)
+  load_resource: 495.725
+*/
